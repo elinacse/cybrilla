@@ -28,7 +28,7 @@ class UrlShorten
 			}
 			myChars[i] = (char) j;
     }
-    domain="http://fkt.in";
+    domain="http://fkt.in"; 
     }
     URLShorten(int length, String newDomain) {
 		this();
